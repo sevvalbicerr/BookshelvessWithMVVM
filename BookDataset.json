@@ -13,7 +13,7 @@
 "year_written": 1865, 
 "edition": "Penguin",
 "price":  12.7,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/War%20and%20Peace.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/War%20and%20Peace.jpg"
 },
 {
 "title": "Anna Karenina",
@@ -21,7 +21,7 @@
 "year_written": 1875, 
 "edition": "Penguin", 
 "price":  13.5,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Anna%20Karenina.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Anna%20Karenina.jpg"
 },
 {
 "title": "Mrs. Dalloway",
@@ -29,7 +29,7 @@
 "year_written": 1925,
 "edition": "Harcourt Brace",
 "price":  25,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Mrs.%20Dalloway.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Mrs.%20Dalloway.jpg"
 },
 {
 "title": "The Hours",
@@ -37,7 +37,7 @@
 "year_written": 1999,
 "edition": "Harcourt Brace", 
 "price":  12.35,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/The%20Hours.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/The%20Hours.jpg"
 },
 {
 "title": "Huckleberry Finn", 
@@ -45,7 +45,7 @@
 "year_written": 1865, 
 "edition": "Penguin", 
 "price":  5.76,
-"url":"https://raw.githubusercontent.com/BookshelvessWithMVVM/blob/main/Huckleberry%20Finn.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Huckleberry%20Finn.jpg"
 },
 {
 "title": "Bleak House",
@@ -53,7 +53,7 @@
 "year_written": 1870,
 "edition": "Random House",
 "price":  5.75,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Bleak%20House.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Bleak%20House.jpg"
 },
 {
 "title": "Tom Sawyer", 
@@ -61,7 +61,7 @@
 "year_written": 1862, 
 "edition": "Random House", 
 "price":  7.75,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Tom%20Sawyer.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Tom%20Sawyer.jpg"
 },
 {
 "title": "A Room of One's Own",
@@ -69,7 +69,7 @@
 "year_written": 1922,
 "edition": "Penguin", 
 "price":  29,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/A%20Room%20of%20One's%20Own.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/A%20Room%20of%20One's%20Own.jpg"
 },
 {
 "title": "Harry Potter",
@@ -77,7 +77,7 @@
 "year_written": 2000, 
 "edition": "Harcourt Brace",
 "price":  19.95,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Harry%20Potter.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Harry%20Potter.jpg"
 },
 {
 "title": "One Hundred Years of Solitude", 
@@ -85,7 +85,7 @@
 "year_written": 1967, 
 "edition": "Harper  Perennial",
 "price":  14.00,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/One%20Hundred%20Years%20of%20Solitude.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/One%20Hundred%20Years%20of%20Solitude.jpg"
 },
 {
 "title": "Hamlet,Prince of Denmark", 
@@ -93,7 +93,7 @@
 "year_written": 1603, 
 "edition": "Signet  Classics",
 "price":  7.95,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Hamlet%2CPrince%20of%20Denmark.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Hamlet%2CPrince%20of%20Denmark.jpg"
 },
 {
 "title": "Lord of the Rings", 
@@ -101,6 +101,6 @@
 "year_written": 1937,
 "edition": "Penguin", 
 "price":  27.45,
-"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Lord%20of%20the%20Rings.jpg"
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/main/Lord%20of%20the%20Rings.jpg"
 }
 ]
