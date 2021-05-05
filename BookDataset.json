@@ -4,90 +4,103 @@
 "author": "Austen, Jane", 
 "year_written": 1814,
 "edition": "Penguin",
-"price":  18.2
+"price":  18.2,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Northanger%20Abbey.jpg"
 },
 {
 "title": "War and Peace", 
 "author": "Tolstoy, Leo", 
 "year_written": 1865, 
 "edition": "Penguin",
-"price":  12.7
+"price":  12.7,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/War%20and%20Peace.jpg"
 },
 {
 "title": "Anna Karenina",
 "author": "Tolstoy, Leo", 
 "year_written": 1875, 
 "edition": "Penguin", 
-"price":  13.5
+"price":  13.5,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Anna%20Karenina.jpg"
 },
 {
 "title": "Mrs. Dalloway",
 "author": "Woolf, Virginia", 
 "year_written": 1925,
 "edition": "Harcourt Brace",
-"price":  25
+"price":  25,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Mrs.%20Dalloway.jpg"
 },
 {
 "title": "The Hours",
 "author": "Cunnningham, Michael", 
 "year_written": 1999,
 "edition": "Harcourt Brace", 
-"price":  12.35
+"price":  12.35,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/The%20Hours.jpg"
 },
 {
 "title": "Huckleberry Finn", 
 "author": "Twain, Mark",
 "year_written": 1865, 
 "edition": "Penguin", 
-"price":  5.76
+"price":  5.76,
+"url":"https://raw.githubusercontent.com/BookshelvessWithMVVM/blob/main/Huckleberry%20Finn.jpg"
 },
 {
 "title": "Bleak House",
 "author": "Dickens, Charles",
 "year_written": 1870,
 "edition": "Random House",
-"price":  5.75
+"price":  5.75,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Bleak%20House.jpg"
 },
 {
 "title": "Tom Sawyer", 
 "author": "Twain, Mark",
 "year_written": 1862, 
 "edition": "Random House", 
-"price":  7.75
+"price":  7.75,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Tom%20Sawyer.jpg"
 },
 {
 "title": "A Room of One's Own",
 "author": "Woolf, Virginia",
 "year_written": 1922,
 "edition": "Penguin", 
-"price":  29
+"price":  29,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/A%20Room%20of%20One's%20Own.jpg"
 },
 {
 "title": "Harry Potter",
 "author": "Rowling, J.K.", 
 "year_written": 2000, 
 "edition": "Harcourt Brace",
-"price":  19.95
+"price":  19.95,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Harry%20Potter.jpg"
 },
 {
 "title": "One Hundred Years of Solitude", 
 "author": "Marquez",
 "year_written": 1967, 
 "edition": "Harper  Perennial",
-"price":  14.00
+"price":  14.00,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/One%20Hundred%20Years%20of%20Solitude.jpg"
 },
 {
 "title": "Hamlet,Prince of Denmark", 
 "author": "Shakespeare", 
 "year_written": 1603, 
 "edition": "Signet  Classics",
-"price":  7.95
+"price":  7.95,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Hamlet%2CPrince%20of%20Denmark.jpg"
 },
 {
 "title": "Lord of the Rings", 
 "author": "Tolkien, J.R.", 
 "year_written": 1937,
 "edition": "Penguin", 
-"price":  27.45
+"price":  27.45,
+"url":"https://raw.githubusercontent.com/sevvalbicerr/BookshelvessWithMVVM/blob/main/Lord%20of%20the%20Rings.jpg"
 }
 ]
